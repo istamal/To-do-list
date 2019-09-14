@@ -1,7 +1,7 @@
 # To do
 This is my version of "To Do app".
 
-To see the app visit https://istamal.github.io/to-to
+To see the app visit https://istamal.github.io/to-do
 
 To start to work with this template on yuor computer:
 (Your need to installed Node.js on your computer)
